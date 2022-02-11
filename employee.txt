@@ -1,4 +1,4 @@
-tryoing git stash 
+trying git stash 
 Again updating in dev
 Updating in master
 Updating in Dev Branch
